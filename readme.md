@@ -1,4 +1,4 @@
-# Escola de música! 
+# Escola!
 
 ## Kevin Melo, 2021.
 
